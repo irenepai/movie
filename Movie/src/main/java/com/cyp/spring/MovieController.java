@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class MovieController {
-
+    //modify 2019.10.22 test
 	DataBase db = new DataBase();
 	Connection con;
 
